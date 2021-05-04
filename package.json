@@ -1,0 +1,20 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon index.js"
+  },
+  "author": "hyvip",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.0",
+    "discord-player": "^4.0.5",
+    "discord.js": "^12.5.3",
+    "ffmpeg-static": "^4.3.0",
+    "weather-js": "^2.0.0",
+    "yt-search": "^2.8.0",
+    "ytdl-core": "^4.5.0"
+  }
+}
